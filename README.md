@@ -1,4 +1,4 @@
-# Microsoft-MakeCode-Arcade
+# Microsoft MakeCode Arcade
 Some game projects I made for entertainment back in 2022.
 Languages/frameworks/techniques used: block codes, JavaScript, Python
 
