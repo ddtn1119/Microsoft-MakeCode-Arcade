@@ -1,2 +1,2 @@
-# Microsoft MakeCode Arcade Projects
-Some game projects I made for fun back in 2022.
+# Microsoft MakeCode Arcade Project: Beautiful Scene (2022)
+An animation of a city landscape, along with a garden of flowers, bees, butterflies, and colourful floating hearts.
